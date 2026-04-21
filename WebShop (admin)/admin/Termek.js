@@ -13,6 +13,7 @@ export default class Termek {
         let kod = `
         <tr>
             <td><img src="${this.#obj.kep}" alt="${this.#obj.nev}"></td>
+            
         </tr>
         `
     }
